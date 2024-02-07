@@ -1,0 +1,168 @@
+{
+    "os": "Linux-6.5.0-15-generic-x86_64-with-glibc2.35",
+    "python": "3.10.12",
+    "heartbeatAt": "2024-02-07T11:55:09.111973",
+    "startedAt": "2024-02-07T11:55:08.242155",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/home/doyoung/\ubc14\ud0d5\ud654\uba74/new_super_attention/attention-learn-to-route/run.py",
+    "codePathLocal": "run.py",
+    "codePath": "run.py",
+    "git": {
+        "remote": "https://github.com/2dozero/Supervised-Learning-Approach-to-Optimize-Routing-Problems-with-PyConcorde.git",
+        "commit": "80fe84dc3b559f2b8524ebc9b3ca774b645a4802"
+    },
+    "email": "will981116@gmail.com",
+    "root": "/home/doyoung/\ubc14\ud0d5\ud654\uba74/new_super_attention/attention-learn-to-route",
+    "host": "doyoung-System-Product-Name",
+    "username": "doyoung",
+    "executable": "/bin/python",
+    "cpu_count": 12,
+    "cpu_count_logical": 24,
+    "cpu_freq": {
+        "current": 3936.0607916666663,
+        "min": 2200.0,
+        "max": 3700.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 4900.613,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 4899.129,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 4598.645,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 4908.79,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3940.275,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3935.391,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3891.725,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 4501.088,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3662.933,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3805.182,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3813.037,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 4198.716,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3907.348,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 4907.316,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 4317.704,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 4599.354,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3937.411,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3936.517,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3820.474,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 4765.831,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3676.4,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3817.731,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3818.122,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3836.429,
+            "min": 2200.0,
+            "max": 3700.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 915.3213348388672,
+            "used": 82.69564819335938
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4070",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4070",
+            "memory_total": 12878610432
+        }
+    ],
+    "memory": {
+        "total": 62.693572998046875
+    }
+}

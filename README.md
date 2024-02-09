@@ -1,5 +1,3 @@
-> Note: I am currently not able to actively maintain this repository. Please also checkout more recent implementations, e.g. https://github.com/ai4co/rl4co and https://github.com/cpwan/RLOR.
-
 # Attention, Learn to Solve Routing Problems!
 
 Attention based model for learning to solve the Travelling Salesman Problem (TSP) and the Vehicle Routing Problem (VRP), Orienteering Problem (OP) and (Stochastic) Prize Collecting TSP (PCTSP). Training with REINFORCE with greedy rollout baseline.
@@ -106,9 +104,6 @@ python eval.py -h
 See `plot_vrp.ipynb` for an example of loading a pretrained model and plotting the result for Capacitated VRP with 100 nodes.
 
 ![CVRP100](images/cvrp_0.png)
-
-## Acknowledgements
-Thanks to [pemami4911/neural-combinatorial-rl-pytorch](https://github.com/pemami4911/neural-combinatorial-rl-pytorch) for getting me started with the code for the Pointer Network.
 
 This repository includes adaptions of the following repositories as baselines:
 * https://github.com/MichelDeudon/encode-attend-navigate

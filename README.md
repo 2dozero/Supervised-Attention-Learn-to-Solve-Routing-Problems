@@ -28,7 +28,8 @@ For more details, please see the paper [Attention, Learn to Solve Routing Proble
 * [tensorboard_logger](https://github.com/TeamHG-Memex/tensorboard_logger)
 * Matplotlib (optional, only for plotting)
 
-### Example CVRP solution
+## Example CVRP solution
+
 See `plot_vrp.ipynb` for an example of loading a pretrained model and plotting the result for Capacitated VRP with 100 nodes.
 
 ![CVRP100](images/cvrp_0.png)

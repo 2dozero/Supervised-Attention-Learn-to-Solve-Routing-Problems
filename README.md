@@ -104,9 +104,3 @@ python eval.py -h
 See `plot_vrp.ipynb` for an example of loading a pretrained model and plotting the result for Capacitated VRP with 100 nodes.
 
 ![CVRP100](images/cvrp_0.png)
-
-This repository includes adaptions of the following repositories as baselines:
-* https://github.com/MichelDeudon/encode-attend-navigate
-* https://github.com/mc-ride/orienteering
-* https://github.com/jordanamecler/PCTSP
-* https://github.com/rafael2reis/salesman

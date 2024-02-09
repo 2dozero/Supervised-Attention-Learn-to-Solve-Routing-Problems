@@ -28,8 +28,7 @@ For more details, please see the paper [Attention, Learn to Solve Routing Proble
 * [tensorboard_logger](https://github.com/TeamHG-Memex/tensorboard_logger)
 * Matplotlib (optional, only for plotting)
 
-
-#### To run baselines
+### To run baselines
 Baselines for different problems are within the corresponding folders and can be ran (on multiple datasets at once) as follows
 ```bash
 python -m problems.tsp.tsp_baseline farthest_insertion data/tsp/tsp20_test_seed1234.pkl data/tsp/tsp50_test_seed1234.pkl data/tsp/tsp100_test_seed1234.pkl

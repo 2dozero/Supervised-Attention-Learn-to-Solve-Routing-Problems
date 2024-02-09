@@ -1,4 +1,4 @@
-# Suervised-Attention, Learn to Solve Routing Problems!
+# Supervised-Attention, Learn to Solve Routing Problems!
 
 Attention based model for learning to solve the Travelling Salesman Problem (TSP) and the Vehicle Routing Problem (VRP), Orienteering Problem (OP) and (Stochastic) Prize Collecting TSP (PCTSP). Training with REINFORCE with greedy rollout baseline.
 
